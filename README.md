@@ -1,2 +1,2 @@
-# Django-deploy-on-ML-model
-Django deploy on ML model
+# ML-model-deploy-with-Django
+ML model deploy with Django 
